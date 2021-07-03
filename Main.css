@@ -1,0 +1,36 @@
+a:link {
+  color: rgb(14, 88, 14);
+  text-shadow: 10px;
+}
+
+a:visited {
+  color: rgb(31, 211, 243);
+}
+
+a:hover {
+  color: rgb(22, 219, 38);
+  background: rgb(241, 26, 98);
+  padding: 6%;
+}
+
+a:active {
+  color: rgb(255, 230, 0);
+}
+
+H2 {
+  color:rgb(197, 70, 70);
+}
+
+table {
+  border-style: solid;
+  border-color: black;
+  
+}
+h3 {
+color: navy;
+background-color: pink ;
+
+}
+h3.hover{
+  text-shadow: rgb(241, 26, 98);
+}
